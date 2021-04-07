@@ -2,7 +2,7 @@
 
 ## Eu sou o João Pedro Martins 🙋🏻‍♂️
 ### Sou estudante de Sistemas de Informação na UFF/RJ
-### Sou estagiário na *PrimeUp* e no *STI*
+### Sou estagiário na *PrimeUp*
 
 ### Já trabalhei em outras empresas como a *Engie* e a *Duo3*.
 
