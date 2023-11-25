@@ -2,26 +2,23 @@
 
 ## Eu sou o João Pedro Martins 🙋🏻‍♂️
 ### Sou estudante de Sistemas de Informação na UFF/RJ
-### Sou estagiário na *PrimeUp*
+### Sou Desenvolvedor Mobile na *TimWeTech*
 
-### Já trabalhei em outras empresas como a *Engie* e a *Duo3*.
+### Já trabalhei em outras empresas como a *Engie*, *PrimeUp*, *Atomic32* e *Zona Sul*.
 
 
 
 ### Conheço várias linguagens de programação como:
+- Dart
 - Python
 - Javascript
-- Dart
 - PHP
 - Java
 - C/C#
-- HTML
-- CSS
 
 
 
-### Gosto muito de desenvolver 📱 aplicativos em *Flutter* e 💻 websites em *React.js* tem vários repositórios que mostram o que eu sei fazer com essas tecnologias.
-### Dá uma olhada! 😜
+### Gosto muito de desenvolver 📱 aplicativos em *Flutter*.
 
 
 
